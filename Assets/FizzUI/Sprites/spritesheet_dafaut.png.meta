@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: f084b7b3f1cfeac4a8d0528018432471
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: channels_activated_btn
+    21300002: channels_bg
+    21300004: channels_bg_glow
+    21300006: channels_deactivated_btn
+    21300008: channels_footer
+    21300010: channels_header
+    21300012: clock_icon
+    21300014: close_btn
+    21300016: delivery_status
+    21300018: header_btn_activated
+    21300020: header_btn_deactivated
+    21300022: latest_page
+    21300024: load_history
+    21300026: mesages_bg
+    21300028: others_chat_box
+    21300030: own_chat_box
+    21300032: send_message_btn
+    21300034: slide_btn
+    21300036: top_btn_tabs_bg
+    21300038: top_btn_tabs_bg_glow
+    21300040: translation
+    21300042: write_message
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 144
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: channels_activated_btn
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 529
+        width: 535
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5009346, y: 0.49579832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f4f9c843382eb40b88b26520834df2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: channels_bg
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 534
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971f9037149ba2545b1eeb2e6c7d33d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: channels_bg_glow
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 455
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1a388b6a704eb4988fe9d2e3e92dcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: channels_deactivated_btn
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 408
+        width: 535
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5009346, y: 0.49579832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64da809a027552249b775a4fb5887a27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: channels_footer
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 342
+        width: 90
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 10, z: 20, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00853b2d17d92b748a9a3990593bdcb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: channels_header
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 560
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 0, z: 25, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f751d0b7fb8457c49b9ecf0a6ae40842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clock_icon
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 484
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130df4ad3ea8dad4997149143e2f163f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close_btn
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 689
+        width: 111
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5243902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b18a686208502f47a9b5d836c7e007a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: delivery_status
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 552
+        width: 77
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4935065, y: 0.51666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4733697920dd74d8ce7a947a77094f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: header_btn_activated
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 337
+        width: 295
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52873564}
+      border: {x: 25, y: 30, z: 25, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea259485197f76418e1d8b91d3e8da8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: header_btn_deactivated
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 295
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52873564}
+      border: {x: 25, y: 30, z: 25, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c340fcb15eb5bd744a660248eed60ef2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: latest_page
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 445
+        width: 54
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46296296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb9a790dcb53d5429a0de0d15a81106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: load_history
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 621
+        width: 74
+        height: 66
+      alignment: 9
+      pivot: {x: 0.55421686, y: 0.5479452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6698aef9617e0b045a2e2b82fb07e926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mesages_bg
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 426
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138cef8b9d2146949bca9c88fc3dffc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: others_chat_box
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 863
+        width: 1018
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 35, y: 35, z: 35, w: 100}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2484101221ba4724096ed207a864e87b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: own_chat_box
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 773
+        width: 800
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5738636}
+      border: {x: 35, y: 35, z: 35, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604d31fd94a3e5c47a892e53671fb699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: send_message_btn
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 705
+        width: 217
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa8027fb3379de4888051337f845c32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slide_btn
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 689
+        width: 111
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5243902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7e583bdae691b45a8aa55914b8f934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top_btn_tabs_bg
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 586
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee860d3183616c4f9e98e0df4c77717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top_btn_tabs_bg_glow
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 650
+        width: 540
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6528926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ff777799026aa4e938b0cd1eb22d96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: translation
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 501
+        width: 92
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.4939759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f40e41c987742a45a9c01aaee1570c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: write_message
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 459
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 24, z: 24, w: 24}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf90dc1623968042ad699eca0d6f717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 55d7338301a1c7f4d8a3bd6cbc2ebbb8
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

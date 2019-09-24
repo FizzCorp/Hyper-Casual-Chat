@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96a0fd8ca4bf31744a5ed849bab1853b, type: 3}
+  m_Name: BlueThemeData
+  m_EditorClassIdentifier: 
+  ChannelActivatedButton: {fileID: 21300000, guid: 75198572bc53c3247a49cef4ad578c19,
+    type: 3}
+  ChannelDeactivatedButton: {fileID: 21300006, guid: 75198572bc53c3247a49cef4ad578c19,
+    type: 3}
+  ChannelBackground: {fileID: 21300002, guid: 75198572bc53c3247a49cef4ad578c19, type: 3}
+  ChannelBackgroundGlow: {fileID: 21300004, guid: 75198572bc53c3247a49cef4ad578c19,
+    type: 3}
+  ChannelHeader: {fileID: 21300010, guid: 75198572bc53c3247a49cef4ad578c19, type: 3}
+  ChannelFooter: {fileID: 21300008, guid: 75198572bc53c3247a49cef4ad578c19, type: 3}
+  CloseButton: {fileID: 21300014, guid: 75198572bc53c3247a49cef4ad578c19, type: 3}
+  SendButton: {fileID: 21300032, guid: 75198572bc53c3247a49cef4ad578c19, type: 3}
+  MoreButton: {fileID: 21300034, guid: 75198572bc53c3247a49cef4ad578c19, type: 3}
+  DeliveryStatusIcon: {fileID: 21300016, guid: 75198572bc53c3247a49cef4ad578c19, type: 3}
+  TranslationIcon: {fileID: 21300040, guid: 75198572bc53c3247a49cef4ad578c19, type: 3}
+  LatestPageIcon: {fileID: 21300022, guid: 75198572bc53c3247a49cef4ad578c19, type: 3}
+  HeaderActivatedButton: {fileID: 21300018, guid: 75198572bc53c3247a49cef4ad578c19,
+    type: 3}
+  HeaderDeactivatedButton: {fileID: 21300020, guid: 75198572bc53c3247a49cef4ad578c19,
+    type: 3}
+  HeaderTabsBackground: {fileID: 21300036, guid: 75198572bc53c3247a49cef4ad578c19,
+    type: 3}
+  HeaderTabsBackgroundGlow: {fileID: 21300038, guid: 75198572bc53c3247a49cef4ad578c19,
+    type: 3}
+  LoadHistoryIcon: {fileID: 21300024, guid: 75198572bc53c3247a49cef4ad578c19, type: 3}
+  MessagesBackground: {fileID: 21300026, guid: 75198572bc53c3247a49cef4ad578c19, type: 3}
+  OtherChatBackground: {fileID: 21300028, guid: 75198572bc53c3247a49cef4ad578c19,
+    type: 3}
+  OwnChatCellBackground: {fileID: 21300030, guid: 75198572bc53c3247a49cef4ad578c19,
+    type: 3}
+  MessageInputBackground: {fileID: 21300042, guid: 75198572bc53c3247a49cef4ad578c19,
+    type: 3}
+  RecentIcon: {fileID: 21300012, guid: 75198572bc53c3247a49cef4ad578c19, type: 3}
+  BoldFont: {fileID: 12800000, guid: d960ed63cf9104c6d9821b76023a61e0, type: 3}
+  NormalFont: {fileID: 12800000, guid: c6cb1a51128cb4babaab5ac667878a17, type: 3}
+  Primary: {r: 1, g: 1, b: 1, a: 1}
+  Secondary: {r: 0.12941177, g: 0.65882355, b: 0.9843137, a: 1}
+  Base_1: {r: 1, g: 1, b: 1, a: 1}
+  Base_2: {r: 1, g: 1, b: 1, a: 1}

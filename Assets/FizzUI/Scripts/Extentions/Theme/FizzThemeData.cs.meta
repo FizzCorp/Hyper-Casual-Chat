@@ -1,0 +1,47 @@
+fileFormatVersion: 2
+guid: 96a0fd8ca4bf31744a5ed849bab1853b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ChannelActivatedButton: {fileID: 21300000, guid: f084b7b3f1cfeac4a8d0528018432471,
+      type: 3}
+  - ChannelDeactivatedButton: {fileID: 21300006, guid: f084b7b3f1cfeac4a8d0528018432471,
+      type: 3}
+  - ChannelBackground: {fileID: 21300002, guid: f084b7b3f1cfeac4a8d0528018432471,
+      type: 3}
+  - ChannelBackgroundGlow: {fileID: 21300004, guid: f084b7b3f1cfeac4a8d0528018432471,
+      type: 3}
+  - ChannelHeader: {fileID: 21300010, guid: f084b7b3f1cfeac4a8d0528018432471, type: 3}
+  - ChannelFooter: {fileID: 21300008, guid: f084b7b3f1cfeac4a8d0528018432471, type: 3}
+  - CloseButton: {fileID: 21300014, guid: f084b7b3f1cfeac4a8d0528018432471, type: 3}
+  - SendButton: {fileID: 21300032, guid: f084b7b3f1cfeac4a8d0528018432471, type: 3}
+  - MoreButton: {fileID: 21300034, guid: f084b7b3f1cfeac4a8d0528018432471, type: 3}
+  - DeliveryStatusIcon: {fileID: 21300016, guid: f084b7b3f1cfeac4a8d0528018432471,
+      type: 3}
+  - TranslationIcon: {fileID: 21300040, guid: f084b7b3f1cfeac4a8d0528018432471, type: 3}
+  - LatestPageIcon: {fileID: 21300022, guid: f084b7b3f1cfeac4a8d0528018432471, type: 3}
+  - HeaderActivatedButton: {fileID: 21300018, guid: f084b7b3f1cfeac4a8d0528018432471,
+      type: 3}
+  - HeaderDeactivatedButton: {fileID: 21300020, guid: f084b7b3f1cfeac4a8d0528018432471,
+      type: 3}
+  - HeaderTabsBackground: {fileID: 21300036, guid: f084b7b3f1cfeac4a8d0528018432471,
+      type: 3}
+  - HeaderTabsBackgroundGlow: {fileID: 21300038, guid: f084b7b3f1cfeac4a8d0528018432471,
+      type: 3}
+  - LoadHistoryIcon: {fileID: 21300024, guid: f084b7b3f1cfeac4a8d0528018432471, type: 3}
+  - MessagesBackground: {fileID: 21300026, guid: f084b7b3f1cfeac4a8d0528018432471,
+      type: 3}
+  - OtherChatBackground: {fileID: 21300028, guid: f084b7b3f1cfeac4a8d0528018432471,
+      type: 3}
+  - OwnChatCellBackground: {fileID: 21300030, guid: f084b7b3f1cfeac4a8d0528018432471,
+      type: 3}
+  - MessageInputBackground: {fileID: 21300042, guid: f084b7b3f1cfeac4a8d0528018432471,
+      type: 3}
+  - BoldFont: {fileID: 12800000, guid: d960ed63cf9104c6d9821b76023a61e0, type: 3}
+  - NormalFont: {fileID: 12800000, guid: c6cb1a51128cb4babaab5ac667878a17, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

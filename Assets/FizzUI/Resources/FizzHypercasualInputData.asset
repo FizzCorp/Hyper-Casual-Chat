@@ -1,0 +1,373 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc3a1263a393582449d33db2a6094571, type: 3}
+  m_Name: FizzHypercasualInputData
+  m_EditorClassIdentifier: 
+  Phrases:
+  - Id: p_happy_1
+    Tag: happy
+    LocalizedPhrases:
+    - Content: Hi there!
+      Language: 10
+    - Content: "\u55E8\uFF0C\u60A8\u597D\uFF01"
+      Language: 6
+    - Content: Hallo daar!
+      Language: 9
+    - Content: Salut!
+      Language: 14
+    - Content: Hallo!
+      Language: 15
+    - Content: Ciao!
+      Language: 21
+    - Content: "\u3053\u3093\u306B\u3061\u306F\uFF01"
+      Language: 22
+    - Content: "Ol\xE1!"
+      Language: 28
+    - Content: "\uC548\uB155!"
+      Language: 23
+    - Content: "\u0412\u0441\u0435\u043C \u043F\u0440\u0438\u0432\u0435\u0442!"
+      Language: 30
+    - Content: "\xA1Hola!"
+      Language: 34
+  - Id: p_happy_2
+    Tag: happy
+    LocalizedPhrases:
+    - Content: How's it going?
+      Language: 10
+    - Content: "C\xF3mo te va?"
+      Language: 34
+    - Content: "\u041A\u0430\u043A \u0434\u0435\u043B\u0438\u0448\u043A\u0438?"
+      Language: 30
+    - Content: "Como t\xE1 indo?"
+      Language: 28
+    - Content: "\uC5B4\uB5BB\uAC8C\uB418\uACE0 \uC788\uC2B5\uB2C8\uAE4C?"
+      Language: 23
+    - Content: "\u8ABF\u5B50\u306F\u3069\u3046\uFF1F"
+      Language: 22
+    - Content: Wie geht's?
+      Language: 15
+    - Content: Come va?
+      Language: 21
+    - Content: "Comment \xE7a va?"
+      Language: 14
+    - Content: Hoe gaat het?
+      Language: 9
+    - Content: "\u600E\u4E48\u6837\u4E86\uFF1F"
+      Language: 6
+  - Id: p_happy_3
+    Tag: happy
+    LocalizedPhrases:
+    - Content: Got a high score!
+      Language: 10
+    - Content: "\u5F97\u5206\u5F88\u9AD8\uFF01"
+      Language: 6
+    - Content: Kreeg een hoge score!
+      Language: 9
+    - Content: "Vous avez un score \xE9lev\xE9!"
+      Language: 14
+    - Content: Habe einen Highscore!
+      Language: 15
+    - Content: Hai ottenuto un punteggio elevato!
+      Language: 21
+    - Content: "\u30CF\u30A4\u30B9\u30B3\u30A2\u3092\u7372\u5F97\u3057\u307E\u3057\u305F\uFF01"
+      Language: 22
+    - Content: "\uB192\uC740 \uC810\uC218\uB97C \uBC1B\uC558\uC2B5\uB2C8\uB2E4!"
+      Language: 23
+    - Content: "Tem uma pontua\xE7\xE3o alta!"
+      Language: 28
+    - Content: "\u041F\u043E\u043B\u0443\u0447\u0438\u043B \u0432\u044B\u0441\u043E\u043A\u0438\u0439
+        \u0431\u0430\u043B\u043B!"
+      Language: 30
+    - Content: Obtuve un puntaje alto!
+      Language: 34
+  - Id: p_happy_4
+    Tag: happy
+    LocalizedPhrases:
+    - Content: Let's play..
+      Language: 10
+    - Content: Vamos a jugar..
+      Language: 34
+    - Content: "\u0414\u0430\u0432\u0430\u0439 \u043F\u043E\u0438\u0433\u0440\u0430\u0435\u043C.."
+      Language: 30
+    - Content: Vamos jogar..
+      Language: 28
+    - Content: "\uB180\uC790.."
+      Language: 23
+    - Content: "\u904A\u307C\u3046.."
+      Language: 22
+    - Content: Giochiamo..
+      Language: 21
+    - Content: Lass uns spielen..
+      Language: 15
+    - Content: Jouons..
+      Language: 14
+    - Content: Laten we spelen..
+      Language: 9
+    - Content: "\u8BA9\u6211\u4EEC\u73A9.."
+      Language: 6
+  - Id: p_happy_5
+    Tag: happy
+    LocalizedPhrases:
+    - Content: I challenge you!
+      Language: 10
+    - Content: "\u6211\u6311\u6218\u4F60\uFF01"
+      Language: 6
+    - Content: Ik daag je uit!
+      Language: 9
+    - Content: "Je te met au d\xE9fi!"
+      Language: 14
+    - Content: Ich fordere dich heraus!
+      Language: 15
+    - Content: Ti sfido!
+      Language: 21
+    - Content: "\u79C1\u306F\u3042\u306A\u305F\u306B\u6311\u6226\u3057\u307E\u3059\uFF01"
+      Language: 22
+    - Content: "\uB098\uB294 \uB2F9\uC2E0\uC5D0\uAC8C \uB3C4\uC804\uD569\uB2C8\uB2E4!"
+      Language: 23
+    - Content: "\u042F \u0431\u0440\u043E\u0441\u0430\u044E \u0432\u0430\u043C \u0432\u044B\u0437\u043E\u0432!"
+      Language: 30
+    - Content: Eu desafio-te!
+      Language: 28
+    - Content: Te reto!
+      Language: 34
+  - Id: p_happy_6
+    Tag: happy
+    LocalizedPhrases:
+    - Content: Best high score!!!
+      Language: 10
+    - Content: Mejor puntaje alto !!!
+      Language: 34
+    - Content: "\u041B\u0443\u0447\u0448\u0438\u0439 \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442
+        !!!"
+      Language: 30
+    - Content: "Melhor pontua\xE7\xE3o alta !!!"
+      Language: 28
+    - Content: "\uCD5C\uACE0 \uC810\uC218 !!!"
+      Language: 23
+    - Content: "\u6700\u9AD8\u306E\u30CF\u30A4\u30B9\u30B3\u30A2!!!"
+      Language: 22
+    - Content: "Miglior punteggio pi\xF9 alto !!!"
+      Language: 21
+    - Content: Bester Highscore !!!
+      Language: 15
+    - Content: "Meilleur score \xE9lev\xE9 !!!"
+      Language: 14
+    - Content: Beste hoogste score !!!
+      Language: 9
+    - Content: "\u6700\u9AD8\u5206!!!"
+      Language: 6
+  - Id: p_happy_7
+    Tag: happy
+    LocalizedPhrases:
+    - Content: Beat my score!
+      Language: 10
+    - Content: "\u6253\u8D25\u6211\u7684\u5206\u6570\uFF01"
+      Language: 6
+    - Content: Versla mijn score!
+      Language: 9
+    - Content: Battez mon score!
+      Language: 14
+    - Content: Schlag meine Punktzahl!
+      Language: 15
+    - Content: Batti il mio punteggio!
+      Language: 21
+    - Content: "\u30B9\u30B3\u30A2\u3092\u7834\u3063\u3066\u304F\u3060\u3055\u3044\uFF01"
+      Language: 22
+    - Content: "\uB0B4 \uC810\uC218\uB97C \uC774\uAE38!"
+      Language: 23
+    - Content: "Bata minha pontua\xE7\xE3o!"
+      Language: 28
+    - Content: "\u0411\u0438\u0442\u044C \u043C\u043E\u0439 \u0441\u0447\u0435\u0442!"
+      Language: 30
+    - Content: Batir mi puntaje!
+      Language: 34
+  - Id: p_happy_8
+    Tag: happy
+    LocalizedPhrases:
+    - Content: B-D
+      Language: 10
+  - Id: p_happy_9
+    Tag: happy
+    LocalizedPhrases:
+    - Content: Oh yeah!
+      Language: 10
+  - Id: p_reaction_1
+    Tag: reaction
+    LocalizedPhrases:
+    - Content: Going well!
+      Language: 10
+  - Id: p_reaction_2
+    Tag: reaction
+    LocalizedPhrases:
+    - Content: Good Luck!
+      Language: 10
+  - Id: p_reaction_3
+    Tag: reaction
+    LocalizedPhrases:
+    - Content: No Way :O
+      Language: 10
+  - Id: p_reaction_4
+    Tag: reaction
+    LocalizedPhrases:
+    - Content: Okay!
+      Language: 10
+  - Id: p_reaction_5
+    Tag: reaction
+    LocalizedPhrases:
+    - Content: Challenge me!
+      Language: 10
+  - Id: p_reaction_6
+    Tag: reaction
+    LocalizedPhrases:
+    - Content: Oh my! oh my!
+      Language: 10
+  - Id: p_reaction_7
+    Tag: reaction
+    LocalizedPhrases:
+    - Content: Sure thing!
+      Language: 10
+  - Id: p_reaction_8
+    Tag: reaction
+    LocalizedPhrases:
+    - Content: ROFL!!
+      Language: 10
+  - Id: p_reaction_9
+    Tag: reaction
+    LocalizedPhrases:
+    - Content: Come on!
+      Language: 10
+  - Id: p_excited_1
+    Tag: excited
+    LocalizedPhrases:
+    - Content: Yayyy!
+      Language: 10
+  - Id: p_excited_2
+    Tag: excited
+    LocalizedPhrases:
+    - Content: Let's do this!
+      Language: 10
+  - Id: p_excited_3
+    Tag: excited
+    LocalizedPhrases:
+    - Content: Win Win!
+      Language: 10
+  - Id: p_excited_4
+    Tag: excited
+    LocalizedPhrases:
+    - Content: I'm excited!
+      Language: 10
+  - Id: p_excited_5
+    Tag: excited
+    LocalizedPhrases:
+    - Content: Hahaha
+      Language: 10
+  - Id: p_excited_6
+    Tag: excited
+    LocalizedPhrases:
+    - Content: Awesome!
+      Language: 10
+  - Id: p_excited_7
+    Tag: excited
+    LocalizedPhrases:
+    - Content: Anytime :D
+      Language: 10
+  - Id: p_excited_8
+    Tag: excited
+    LocalizedPhrases:
+    - Content: :D
+      Language: 10
+  - Id: p_excited_9
+    Tag: excited
+    LocalizedPhrases:
+    - Content: Hehe
+      Language: 10
+  - Id: p_sad_1
+    Tag: sad
+    LocalizedPhrases:
+    - Content: I lost :(
+      Language: 10
+  - Id: p_sad_2
+    Tag: sad
+    LocalizedPhrases:
+    - Content: Fine!
+      Language: 10
+  - Id: p_sad_3
+    Tag: sad
+    LocalizedPhrases:
+    - Content: Boo!!
+      Language: 10
+  - Id: p_sad_4
+    Tag: sad
+    LocalizedPhrases:
+    - Content: Uh oh!
+      Language: 10
+  - Id: p_sad_5
+    Tag: sad
+    LocalizedPhrases:
+    - Content: Nooo!!
+      Language: 10
+  - Id: p_sad_6
+    Tag: sad
+    LocalizedPhrases:
+    - Content: :O
+      Language: 10
+  - Id: p_sad_7
+    Tag: sad
+    LocalizedPhrases:
+    - Content: I wish!
+      Language: 10
+  - Id: p_sad_8
+    Tag: sad
+    LocalizedPhrases:
+    - Content: :|
+      Language: 10
+  - Id: p_sad_9
+    Tag: sad
+    LocalizedPhrases:
+    - Content: :((
+      Language: 10
+  Stickers:
+  - Id: s_sad_1
+    Tag: sad
+    Content: {fileID: 21300000, guid: 9baa31b72f64cfe4cb988464c8664b7c, type: 3}
+  - Id: s_sad_2
+    Tag: sad
+    Content: {fileID: 21300000, guid: 577dcd3ecf98a3f41aa943b3dbca6ef9, type: 3}
+  - Id: s_sad_3
+    Tag: sad
+    Content: {fileID: 21300000, guid: 61ae80b3c07bcfe4fb27bf0c333a3be8, type: 3}
+  - Id: s_reaction_1
+    Tag: reaction
+    Content: {fileID: 21300000, guid: 633a254384af53e4baf073951976bd2c, type: 3}
+  - Id: s_reaction_2
+    Tag: reaction
+    Content: {fileID: 21300000, guid: 779b3753c85cf3d4491bc2727cecfbc7, type: 3}
+  - Id: s_reaction_3
+    Tag: reaction
+    Content: {fileID: 21300000, guid: e91e0f5cedeb51648bc5862dbc44db59, type: 3}
+  - Id: s_reaction_4
+    Tag: reaction
+    Content: {fileID: 21300000, guid: 85eb4b60086c0ed4eb5786b5f7de6f36, type: 3}
+  - Id: s_happy_1
+    Tag: happy
+    Content: {fileID: 21300000, guid: 5bb106daee0308343b69a562f2bafb8c, type: 3}
+  - Id: s_happy_2
+    Tag: happy
+    Content: {fileID: 21300000, guid: 008a5584a65977a469efeea90c708a19, type: 3}
+  - Id: s_happy_3
+    Tag: happy
+    Content: {fileID: 21300000, guid: a06d62ef47fa336408bbbed714ef7e21, type: 3}
+  - Id: s_excited_1
+    Tag: excited
+    Content: {fileID: 21300000, guid: dc54829809773f740b00279c920ce786, type: 3}
+  - Id: s_excited_2
+    Tag: excited
+    Content: {fileID: 21300000, guid: 2a36e504b0461004e98fb44ed056d61f, type: 3}
