@@ -11,4 +11,4 @@ To display phrases and sticker we  have added custom views to chat cells. Predef
 > Note: Implement IFizzCustomMessageCellViewDataSource to parse message data and generate custom nodes in chat cells. Try Custom Cells Sample for more details.
  
 ## Configurations
-To add chat view with predefined input to your game simply drag and drop the `FizzChatViewWithHypercasualInput` prefab from Resources directory. It is configured to use both custom view and data file to run and you can add/remove or edit the data file at anytime.
+To add chat view with predefined input to your game simply drag and drop the `FizzHypercasualChatView` prefab from Resources directory. It is configured to use both custom view and data file to run and you can add/remove or edit the data file at anytime.
